@@ -42,7 +42,7 @@ api_client.get_post('post_id')
 ### 1. Get User By Username
 
 <details>
-<summary>🚀 Outputs</summary>
+<summary>Output</summary>
 
 ```ruby
 > api_client.get_user('zuck')
@@ -80,7 +80,7 @@ api_client.get_post('post_id')
 ### 2. Get User Id By Username
 
 <details>
-<summary>🚀 Outputs</summary>
+<summary>Output</summary>
 
 ```ruby
 > api_client.get_user_id_from_username('zuck')
@@ -92,7 +92,7 @@ api_client.get_post('post_id')
 ### 3. Get User Threads
 
 <details>
-<summary>🚀 Outputs</summary>
+<summary>Output</summary>
 
 ```ruby
 > api_client.get_user_threads('user_name')
@@ -152,7 +152,7 @@ api_client.get_post('post_id')
 ### 4. Get User Replies
 
 <details>
-<summary>🚀 Outputs</summary>
+<summary>Output</summary>
 
 ```ruby
 > api_client.get_user_replies('user_name')
@@ -254,7 +254,7 @@ api_client.get_post('post_id')
 ### 5. Get Post By post_id
 
 <details>
-<summary>🚀 Outputs</summary>
+<summary>Output</summary>
 
 ```ruby
 
