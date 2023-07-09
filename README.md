@@ -95,7 +95,7 @@ api_client.get_post('post_id')
 <summary>Output</summary>
 
 ```ruby
-> api_client.get_user_threads('user_name')
+> api_client.get_user_threads('zuck')
 
 {"data"=>
   {"mediaData"=>
@@ -155,7 +155,7 @@ api_client.get_post('post_id')
 <summary>Output</summary>
 
 ```ruby
-> api_client.get_user_replies('user_name')
+> api_client.get_user_replies('zuck')
 
 {"data"=>
   {"mediaData"=>
